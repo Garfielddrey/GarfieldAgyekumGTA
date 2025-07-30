@@ -11,6 +11,7 @@ import SecondVideo from './sections/SecondVideo';
 import Lucia from './sections/Lucia';
 import PostCard from './sections/PostCard';
 import Final from './sections/Final';
+import ComingSoon from './sections/ComingSoon';
 
 gsap.registerPlugin(ScrollTrigger);
 
